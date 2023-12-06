@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi! I'm R K Siddharth !
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%246333F5&vCenter=true&lines=A+Undergraduate+B.Tech+CSE+Student,;Studying+at+=VIT+University.;A+Web+and+ML+Developer.;I’ll+never+be+perfect,+but+I+can+be+better.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%246333F5&vCenter=true&lines=A+Undergraduate+B.Tech+CSE+Student,;Studying+at+VIT+University.;A+Web+and+ML+Developer.;I’ll+never+be+perfect,+but+I+can+be+better.)](https://git.io/typing-svg)
 
 </h1>
 
