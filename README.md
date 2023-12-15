@@ -38,6 +38,18 @@
 - Full Stack Development with React & Node JS
 - Mastering Data Structures & Algorithms using C and cpp
 
+
+## ML projects :
+
+- Potato Disease Classification with CNN - Click [Here](https://github.com/siddhu2984/Potato_Disease_Classification_with_CNN/tree/main) to view the Code
+- Flowers Classification with CNN - Click [Here](https://github.com/siddhu2984/Flowers_Classification_with_CNN) to view the Code
+- Customer Churn Prediction with Deep Learning - Click [Here](https://github.com/siddhu2984/Customer_Churn_Prediction_DL) to view the Code
+- Digit Recognition with Deep Learning - Click [Here](https://github.com/siddhu2984/Digit_Recognition_DL) to view the Code
+- Flight Fare Prediction - Click [Here](http://ec2-3-25-160-241.ap-southeast-2.compute.amazonaws.com/predict) to view the Site and [Here](https://github.com/siddhu2984/Flight-Fare-Prediction) for Code
+- Real-Estate-Price-Prediction - Click [Here](http://ec2-3-25-95-92.ap-southeast-2.compute.amazonaws.com/) to view the Site and [Here](https://github.com/siddhu2984/Real-Estate-Price-Prediction) for Code
+- Image-recognizer - Click [Here](http://ec2-54-79-244-46.ap-southeast-2.compute.amazonaws.com/) to view the Site and [Here](https://github.com/siddhu2984/Image-recognizer) for Code
+
+
 ## Web Missions :
 
 - Portfolio - Click [Here](https://siddhu2984.github.io/Portfolio/) to view the Code
@@ -47,8 +59,3 @@
 - Expense tracker - Click [Here](https://github.com/siddhu2984/Expense-Tracker-with-React) to view the Code
 - javaScript games - Click [Here](https://github.com/siddhu2984/snake_game) [Here](https://github.com/siddhu2984/mind-game) [Here](https://github.com/siddhu2984/simen-game) to view the Code
 
-## ML projects :
-
-- Flight Fare Prediction - Click [Here](http://ec2-3-25-160-241.ap-southeast-2.compute.amazonaws.com/predict) to view the Site and [Here](https://github.com/siddhu2984/Flight-Fare-Prediction) for Code
-- Real-Estate-Price-Prediction - Click [Here](http://ec2-3-25-95-92.ap-southeast-2.compute.amazonaws.com/) to view the Site and [Here](https://github.com/siddhu2984/Real-Estate-Price-Prediction) for Code
-- Image-recognizer - Click [Here](http://ec2-54-79-244-46.ap-southeast-2.compute.amazonaws.com/) to view the Site and [Here](https://github.com/siddhu2984/Image-recognizer) for Code
